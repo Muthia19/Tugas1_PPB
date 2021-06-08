@@ -1,0 +1,36 @@
+h1{
+    color: blue;
+    margin-left: 30px;
+    font-
+    family: 'Lucida Sans', 'Lucida Sans Regular', 'Sans Grande', 'Lucida Sans Unicode', Geneva, 
+    Verdana, sans-serif;
+}
+#tulisan{
+    color: 10px;
+}
+
+.box{
+    background:rgb(114, 114, 189);
+    padding: 10px;
+}
+
+
+body{
+    background: rgb(114, 114, 189);
+    background-size: cover;
+    background-attachment: fixed;
+    color:white;
+}
+p{
+    margin-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table{
+    margin-left: 30px;
+    width: 1200px;
+    font-size: 24px;
+}
+
+a{
+    margin-left: 30px;
+}
